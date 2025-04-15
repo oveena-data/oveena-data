@@ -2,7 +2,7 @@
 A data scientist and software developer passionate about using data to solve real-world problems in critical industries like energy, space, and security.
 
 - 🔭 I’m currently working on:  
-  A real-time typing biometrics authentication API using keystroke dynamics and anomaly detection—focused on reliability, security, and real-time inference.
+  A real-time typing biometrics authentication API using keystroke dynamics and anomaly detection-focused on reliability, security, and real-time inference.
 
 - 🌱 I’m currently learning:  
   Advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimization. Also exploring dimensionality reduction (ex: PCA, t-SNE) and algorithmic efficiency for large-scale datasets.
