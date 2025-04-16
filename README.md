@@ -3,7 +3,7 @@
 A data scientist and software developer with a passion to use data to solve real-world problems.
 
 <details>
-  <summary>🌱 About Me</summary>
+  <summary>About Me</summary>
   <br>
   I’m currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia.  
   I'm learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimisation.  
@@ -12,20 +12,20 @@ A data scientist and software developer with a passion to use data to solve real
 </details>
 
 <details>
-  <summary>👯 I’m looking to collaborate on</summary>
+  <summary>I’m looking to collaborate on</summary>
   <br>
   Projects involving all things data and innovative!
 </details>
 
 <details>
-  <summary>💬 Ask me about</summary>
+  <summary>Ask me about</summary>
   <br>
   Real-time model deployment, typing biometrics, satellites and outer-space, statistical analysis, or getting started in tech/entrepreneurship.
 </details>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Programming Languages -->
@@ -45,15 +45,16 @@ A data scientist and software developer with a passion to use data to solve real
 
 <p align="center">
   <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
-
 </p>
 
 
-### Starting fresh! 🎉 This GitHub is where I’ll be documenting my growth in data science and more...
+### Starting fresh! 🎉 
+I’ll be documenting my growth in data science and more afresh hereon...
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=oveena-data&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <img src="https://streak-stats.demolab.com/?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -61,25 +62,25 @@ A data scientist and software developer with a passion to use data to solve real
 
 ---
 
-### 📫 How to reach me:  
+### Connect With Me:  
 
 [LinkedIn](https://www.linkedin.com/in/oveenawidyaratne) | [Google Developer Group - Adelaide](https://gdg.community.dev/gdg-adelaide/)
 
 ---
 
-## ⚡ Fun Facts:  
+## ⚡ Fun Facts
 
 My first data science project involved analyzing traffic and population trends for urban planning and won 2nd place at GovHack Australia 🥈  
 
-### 🧠 What I'm Building  
+### What I Am Building  
 
-🚀 **Co-founder & Data Engineer (Product & Market)** at [**Typpio**](https://www.typpio.com/)  
+Co-founder & Data Engineer (Product & Market) at [**Typpio**](https://www.typpio.com/)  
 
 We're blending behavioral authentication with real-time typing patterns to secure digital identities.
 
 ### 🌟 Inspired By
 
-> I'm deeply inspired by **Cassie Kozyrkov**, the founder of Decision Intelligence and former Chief Decision Scientist at Google. Her work in integrating data science with human decision-making has profoundly influenced my approach to data-driven solutions. Cassie's ability to bridge complex AI concepts with practical applications motivates me. I don't just want to use data, I want to innovate with it.
+> I'm deeply inspired by **Cassie Kozyrkov**. Her work in integrating data science with human decision-making has profoundly influenced my approach to data-driven solutions. Cassie's ability to bridge complex AI concepts with practical applications motivates me. I don't just want to use data, I want to innovate with it.
 
 ---
 
