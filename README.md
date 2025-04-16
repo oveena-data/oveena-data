@@ -64,7 +64,7 @@ A data scientist and software developer with a passion to use data to solve real
 
 ### 📫 How to reach me:  
 
-[LinkedIn](https://www.linkedin.com/in/oveenawidyaratne)
+[LinkedIn](https://www.linkedin.com/in/oveenawidyaratne) | [Google Developer Group - Adelaide](https://gdg.community.dev/gdg-adelaide/)
 
 ---
 
