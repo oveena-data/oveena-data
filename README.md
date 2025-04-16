@@ -60,6 +60,9 @@ A data scientist and software developer with a passion to use data to solve real
   <img src="https://streak-stats.demolab.com/?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/oveena-data/your-repo-name)
+![GitHub stars](https://img.shields.io/github/stars/oveena-data/your-repo-name?style=social)
+
 ---
 
 ### 📫 How to reach me:  
