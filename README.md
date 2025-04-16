@@ -1,7 +1,7 @@
 ### Hi there, Oveena here 👋  
 A data scientist and software developer with a passion to use data to solve real-world problems.
 
-- 🌱 I’m currently a final year Computer Science Student at the University of Adelaide, Australia. I am learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimization. Also exploring dimensionality reduction (ex: PCA, t-SNE) and algorithmic efficiency for large-scale datasets.
+- 🌱 I’m currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia. I am learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimization. Also exploring dimensionality reduction (ex: PCA, t-SNE) and algorithmic efficiency for large-scale datasets.
 
 - 👯 I’m looking to collaborate on:  
   Projects involving all things data and innovative!
