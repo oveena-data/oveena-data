@@ -57,7 +57,7 @@ A data scientist and software developer with a passion to use data to solve real
 ### 🎉Starting fresh! This GitHub is where I’ll be documenting my growth in data science and more...
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oveena-data&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
