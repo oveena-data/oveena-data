@@ -75,9 +75,8 @@ My first data science project involved analyzing traffic and population trends f
 ### 🧠 What I'm Building  
 
 🚀 **Co-founder & Data Engineer (Product & Market)** at [**Typpio**](https://www.typpio.com/)  
-We're blending behavioral authentication with real-time typing patterns to secure digital identities.
 
----
+We're blending behavioral authentication with real-time typing patterns to secure digital identities.
 
 ### 🌟 Inspired By
 
