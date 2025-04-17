@@ -5,9 +5,9 @@ A data scientist and software developer with a passion to use data to solve real
 <details>
   <summary>About Me</summary>
   <br>
-  I’m currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia.  
-  I'm learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimisation.  
-  Also keen on exploring dimensionality reduction (such as: PCA, t-SNE) and algorithmic efficiency for large-scale datasets.
+  - Currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia.  
+  - Learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimisation.  
+  - Keen on exploring ML algorithm efficiency for large-scale datasets.
   
 </details>
 
@@ -107,9 +107,9 @@ I’ll be documenting my growth in data science and more afresh hereon...
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun Fact
 
-My first data science project involved analyzing traffic and population trends for urban planning and won 2nd place at GovHack Australia 🥈  
+My 1st data science project involved analyzing traffic and population trends for urban planning for Victorian State Government. Won 2nd place🥈  
 
 ### What I Am Building  
 
@@ -119,7 +119,7 @@ We're blending behavioral authentication with real-time typing patterns to secur
 
 ### 🌟 Inspired By
 
-> I'm deeply inspired by **Cassie Kozyrkov**. Her work in integrating data science with human decision-making has profoundly influenced my approach to data-driven solutions. Cassie's ability to bridge complex AI concepts with practical applications motivates me. I don't just want to use data, I want to innovate with it.
+> **Cassie Kozyrkov**: Her work in integrating data science with human decision-making has influenced my approach to data-driven solutions by bridging AI concepts with practical applications. I want to mitigate the digital divide in data science just as much as her work did. I don't just want to use data, I want to learn to innovate with it.
 
 ---
 
