@@ -7,7 +7,7 @@ A data scientist and software developer with a passion to use data to solve real
   <br>
   I’m currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia.  
   I'm learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimisation.  
-  Also exploring dimensionality reduction (such as: PCA, t-SNE) and algorithmic efficiency for large-scale datasets.
+  Also keen on exploring dimensionality reduction (such as: PCA, t-SNE) and algorithmic efficiency for large-scale datasets.
   
 </details>
 
@@ -20,7 +20,7 @@ A data scientist and software developer with a passion to use data to solve real
 <details>
   <summary>Ask me about</summary>
   <br>
-  Real-time model deployment, typing biometrics, satellites and outer-space, statistical analysis, or getting started in tech/entrepreneurship.
+  Real-time model deployment, typing biometrics, cybersecurity, satellites and outer-space, statistical analysis, business communities or getting started in tech/entrepreneurship.
 </details>
 
 ---
@@ -29,10 +29,9 @@ A data scientist and software developer with a passion to use data to solve real
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ffff00?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MATLAB-800000?style=for-the-badge&logo=MathWorks&logoColor=0076A8" />
 </p>
 
 <p align="center">
@@ -41,15 +40,45 @@ A data scientist and software developer with a passion to use data to solve real
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drupal-ffffff?style=for-the-badge&logo=drupal&logoColor=0678BE" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
+<p align="center">
+  <!-- ML -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shapely-5A4FCF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=orange&color=darkgrey" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+
 
 <p align="center">
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F39626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=6200EA" />
+</p>
+
+<p align="center">
+<!-- Project Management Tools -->
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+
+
+<p align="center">
+<!-- Design Tools -->
+  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-%F0%9F%8C%88?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=8B008B" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=darkblue" />
 </p>
 
 
