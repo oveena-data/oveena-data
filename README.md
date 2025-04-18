@@ -15,6 +15,8 @@ A data scientist and software developer with a passion to use data to solve real
   <summary>I’m looking to collaborate on</summary>
   <br>
   Projects involving all things data and innovative!
+  - Interested in working on full-stack development.
+  - Ocassionaly, I do participate in hackathons.
 </details>
 
 <details>
