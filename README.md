@@ -62,6 +62,7 @@ A data scientist and software developer with a passion to use data to solve real
   <img src="https://img.shields.io/badge/Jupyter-F39626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=6200EA" />
+  <img src="https://img.shields.io/badge/Artillery-grey?style=for-the-badge&logo=artillery&logoColor=6200EA" />
 </p>
 
 <p align="center">
