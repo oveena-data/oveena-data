@@ -88,6 +88,9 @@ I’ll be documenting my growth in data science and more afresh hereon...
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=oveena-data&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <img src="https://streak-stats.demolab.com/?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveena-data&layout=compact&theme=radical" />
+</p>
 
 ---
 
@@ -125,8 +128,4 @@ We're blending behavioral authentication with real-time typing patterns to secur
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/correlation.png" alt="So...what got you into data?" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveena-data&layout=compact&theme=radical" />
 </p>
