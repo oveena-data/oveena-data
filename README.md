@@ -127,3 +127,6 @@ We're blending behavioral authentication with real-time typing patterns to secur
   <img src="https://imgs.xkcd.com/comics/correlation.png" alt="So...what got you into data?" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveena-data&layout=compact&theme=radical" />
+</p>
