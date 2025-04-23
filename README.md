@@ -82,8 +82,8 @@ A data scientist and software developer with a passion to use data to solve real
 </p>
 
 
-### Starting fresh! 🎉 
-I’ll be documenting my growth in data science and more afresh hereon...
+### I'm starting fresh... so bear with
+I want to be able to document my growth in programming, so watch this space...
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=oveena-data&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <img src="https://streak-stats.demolab.com/?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -110,9 +110,10 @@ I’ll be documenting my growth in data science and more afresh hereon...
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
-My 1st data science project involved analyzing traffic and population trends for urban planning for Victorian State Government. Won 2nd place🥈  
+My 1st data science project involved analyzing traffic and population trends for urban planning for Victorian State Government. 
+Won 2nd place🥈  
 
 ### What I Am Building  
 
