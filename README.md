@@ -123,7 +123,7 @@ We're blending behavioral authentication with real-time typing patterns to secur
 
 ### 🌟 Inspired By
 
-> **Cassie Kozyrkov**: Her work in integrating data science with human decision-making has influenced my approach to data-driven solutions by bridging AI concepts with practical applications. I want to mitigate the digital divide in data science just as much as her work did. I don't just want to use data, I want to learn to innovate with it.
+> **"Making friends with Machine Learning"** is what got me started with AI.**Cassie Kozyrkov**: Her work in integrating data science with human decision-making is super inspiring. I want to mitigate the digital divide in data science just as much as her work did. I don't just want to use data, I want to learn to innovate with it.
 
 ---
 
