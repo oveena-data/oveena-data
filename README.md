@@ -83,7 +83,7 @@ A data scientist and software developer with a passion to use data to solve real
 
 
 ### I'm starting fresh... so bear with
-I want to be able to document my growth in programming, so watch this space...
+I want to be able to document my growth in programming, so watch this space :)
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=oveena-data&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <img src="https://streak-stats.demolab.com/?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
