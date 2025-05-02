@@ -1,22 +1,22 @@
-# Hi there, Oveena here 👋  
+# Hi there, Oveena here 👋😊 
 
 A data scientist and software developer with a passion to use data to solve real-world problems.
 
 <details>
-  <summary>About Me</summary>
+  <summary>About Me:-</summary>
   <br>
-  Currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia. Learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimisation. Keen on exploring ML algorithm efficiency for large-scale datasets.
+Currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia. Learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimisation. Keen on exploring ML algorithm efficiency for large-scale datasets.
   
 </details>
 
 <details>
-  <summary>I’m looking to collaborate on</summary>
+  <summary>I’m looking to collaborate on:-</summary>
   <br>
   Projects involving all things data and innovative! Interested in working on full-stack development. Ocassionaly, I do participate in hackathons.
 </details>
 
 <details>
-  <summary>Ask me about</summary>
+  <summary>Ask me about:-</summary>
   <br>
   Real-time model deployment, typing biometrics, cybersecurity, satellites and outer-space, statistical analysis, business communities or getting started in tech/entrepreneurship.
 </details>
