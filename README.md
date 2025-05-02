@@ -2,21 +2,16 @@
 
 A data scientist and software developer with a passion to use data to solve real-world problems.
 
-<details>
-  <summary>About Me:-</summary>
-  <br>
-Currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia. Learning advanced feature selection techniques, hyperparameter tuning, and applying machine learning tools like Scikit-learn for model inference and optimisation. Keen on exploring ML algorithm efficiency for large-scale datasets.
+Currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia. 
   
-</details>
-
 <details>
-  <summary>I’m looking to collaborate on:-</summary>
+  <summary>I’m looking to collaborate on-</summary>
   <br>
-  Projects involving all things data and innovative! Interested in working on full-stack development. Ocassionaly, I do participate in hackathons.
+  Projects involving all things data and innovative! Interested in working on full-stack development and cloud engineering. Ocassionaly, I do participate in hackathons.
 </details>
 
 <details>
-  <summary>Ask me about:-</summary>
+  <summary>Ask me about-</summary>
   <br>
   Real-time model deployment, typing biometrics, cybersecurity, satellites and outer-space, statistical analysis, business communities or getting started in tech/entrepreneurship.
 </details>
@@ -64,7 +59,7 @@ Currently a final year Computer Science Student, majoring in Data Science, at th
   <img src="https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=6200EA" />
   <img src="https://img.shields.io/badge/Artillery-grey?style=for-the-badge&logo=artillery&logoColor=6200EA" />
-  <img src="https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=google&logoColor=FF00FF" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 <p align="center">
