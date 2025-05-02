@@ -1,8 +1,6 @@
 # Hello World, Oveena here 😊 
 
 A data scientist and software developer with a passion to use data to solve real-world problems.
-
-Currently a final year Computer Science Student, majoring in Data Science, at the University of Adelaide, Australia. 
   
 <details>
   <summary>I’m looking to collaborate on-</summary>
@@ -128,8 +126,14 @@ We're blending behavioral authentication with real-time typing patterns to secur
   <img src="https://imgs.xkcd.com/comics/correlation.png" alt="So...what got you into data?" />
 </p>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oveena-data/oveena-data/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oveena-data/oveena-data/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/oveena-data/oveena-data/output/github-snake.svg" />
 </picture>
+
+<p>
+<i> operation CommitFlow: keep the snake🐍 moving </i>
+</p>
