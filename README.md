@@ -134,6 +134,4 @@ We're blending behavioral authentication with real-time typing patterns to secur
   <img alt="github-snake" src="https://raw.githubusercontent.com/oveena-data/oveena-data/output/github-snake.svg" />
 </picture>
 
-<p>
-<i> operation CommitFlow: keep the snake🐍 moving </i>
-</p>
+
