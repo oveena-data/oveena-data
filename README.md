@@ -107,14 +107,14 @@ I want to be able to document my growth in programming, so watch this space :)
 
 ## Fun Fact
 
-My 1st data science project involved analyzing traffic and population trends for urban planning for Victorian State Government. 
+My 1st data science project involved analysing traffic and population trends for urban planning for Victorian State Government. 
 Won 2nd place🥈  
 
 ### What I Am Building  
 
 Co-founder & Data Engineer (Product & Market) at [**Typpio**](https://www.typpio.com/)  
 
-We're blending behavioral authentication with real-time typing patterns to secure digital identities.
+We're blending behavioural authentication with real-time typing patterns to secure digital identities.
 
 ### 🌟 Inspired By
 
