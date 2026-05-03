@@ -41,8 +41,10 @@ A data scientist and software developer with a passion to use data to solve real
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache--Spark-000DDD?style=for-the-badge&logo=apachespark&logoColor=red&color=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-AFAAW?style=for-the-badge&logo=pyspark&logoColor=black" />
   <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shapely-5A4FCF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=orange&color=darkgrey" />
@@ -62,6 +64,7 @@ A data scientist and software developer with a passion to use data to solve real
 
 <p align="center">
 <!-- Project Management Tools -->
+  <img src="https://img.shields.io/badge/AzureDevOps-EEE777?style=for-the-badge&logo=azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
