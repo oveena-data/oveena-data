@@ -1,17 +1,19 @@
-# Hello World, Oveena here 😊 
+# Hello World, Oveena here 😊
 
-A data scientist and software developer with a passion to use data to solve real-world problems.
-  
+A **software engineering graduate** who builds reliable, secure, data-driven systems — and ships them with security baked in from the first commit.
+
+I’m a Computer Science graduate (University of Adelaide) now rotating across IT disciplines at **SA Power Networks** — automation, networks, cyber, data science and more — with a software engineering / DevOps focus. I care about clean code, solid pipelines, and software that holds up in the real world.
+
 <details>
   <summary>I’m looking to collaborate on :-</summary>
   <br>
-  Projects involving all things machine learning, data and innovative! Interested in working on full-stack development and cloud engineering. Ocassionaly, I do participate in hackathons.
+  Full-stack and backend software engineering, cloud-native and DevSecOps projects, secure CI/CD pipelines, automation, and anything that turns data into reliable production systems. Occasionally, I do participate in hackathons.
 </details>
 
 <details>
   <summary>Ask me about :-</summary>
   <br>
-  Real-time model deployment, machine learning, cybersecurity, satellites and outer-space, statistical analysis, business communities or getting started in tech/entrepreneurship.
+  Software engineering practices, building and securing CI/CD pipelines, DevSecOps and shift-left security, application & cloud security, real-time model deployment, automation, statistical analysis, or getting started in tech/entrepreneurship.
 </details>
 
 ---
@@ -22,12 +24,13 @@ A data scientist and software developer with a passion to use data to solve real
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-ffff00?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C++-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-800000?style=for-the-badge&logo=MathWorks&logoColor=0076A8" />
 </p>
 
 <p align="center">
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- Software Engineering & Web -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-34495E?style=for-the-badge&logo=vue.js&logoColor=41B883" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,53 +40,70 @@ A data scientist and software developer with a passion to use data to solve real
 </p>
 
 <p align="center">
-  <!-- ML -->
+  <!-- DevSecOps, CI/CD & Cloud -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Testing & API -->
+  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=6200EA" />
+  <img src="https://img.shields.io/badge/Artillery-grey?style=for-the-badge&logo=artillery&logoColor=6200EA" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Data & ML -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache--Spark-000DDD?style=for-the-badge&logo=apachespark&logoColor=red&color=white" />
+  <img src="https://img.shields.io/badge/PySpark-AFAAW?style=for-the-badge&logo=pyspark&logoColor=black" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-AFAAW?style=for-the-badge&logo=pyspark&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=orange&color=darkgrey" />
   <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shapely-5A4FCF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=orange&color=darkgrey" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-
-
-<p align="center">
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F39626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=6200EA" />
-  <img src="https://img.shields.io/badge/Artillery-grey?style=for-the-badge&logo=artillery&logoColor=6200EA" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 <p align="center">
-<!-- Project Management Tools -->
-  <img src="https://img.shields.io/badge/AzureDevOps-EEE777?style=for-the-badge&logo=azure&logoColor=white" />
+  <!-- Project Management Tools -->
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Jupyter-F39626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 <p align="center">
-<!-- Design Tools -->
+  <!-- Design Tools -->
   <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-%F0%9F%8C%88?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=8B008B" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=darkblue" />
 </p>
 
+---
 
-### I'm starting fresh... so bear with
-I want to be able to document my growth in programming, so watch this space :)
+## How I Work
+
+- **Engineer first** — readable, tested, maintainable code, mapped to the ACS Software Engineer (ANZSCO 261313) competency areas: software requirements, design, construction, testing, and quality.
+- **Shift-left security** — DevSecOps mindset: I treat security as part of the pipeline, not an afterthought — secure-by-design, automated checks, and least-privilege defaults.
+- **Ship and iterate** — CI/CD-driven delivery, containerised where it makes sense, with observability so things stay reliable in production.
+
+---
+
+### Watch this space
+I’m documenting my growth as a software engineer here — projects, pipelines, and the occasional experiment. 🚀
+
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=oveena-data&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <img src="https://streak-stats.demolab.com/?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
@@ -92,7 +112,7 @@ I want to be able to document my growth in programming, so watch this space :)
 
 ---
 
-### Connect With Me:  
+### Connect With Me:
 
 <p align="left">
   <a href="https://leetcode.com/u/oveena-data/" target="_blank">
@@ -110,18 +130,12 @@ I want to be able to document my growth in programming, so watch this space :)
 
 ## Fun Fact
 
-My 1st data science project involved analysing traffic and population trends for urban planning for Victorian State Government. 
-Won 2nd place🥈  
+My 1st data science project analysed traffic and population trends for urban planning for the Victorian State Government — and won 2nd place 🥈. These days I’m just as happy debugging a pipeline as I am wrangling a dataset.
 
-### What I Am Building  
-
-Co-founder & Data Engineer (Product & Market) at [**Typpio**](https://www.typpio.com/)  
-
-We're blending behavioural authentication with real-time typing patterns to secure digital identities.
 
 ### 🌟 Inspired By
 
-> **"Making friends with Machine Learning"** is what got me started with AI. **Cassie Kozyrkov**: Her work in integrating data science with human decision-making is super inspiring. I want to mitigate the digital divide in data science just as much as her work did. I don't just want to use data, I want to learn to innovate with it.
+> **"Making friends with Machine Learning"** is what got me started, and **Cassie Kozyrkov’s** work on integrating data with human decision-making still inspires me. I don’t just want to use technology — I want to engineer with it, and build it securely.
 
 ---
 
