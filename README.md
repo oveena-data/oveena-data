@@ -1,10 +1,10 @@
-# Hello World :D
+# Hello World
 
 Software Engineer, passionate about inventions, innovative ideas, and building useful technology.
 
 ---
 
-## Tech Stack
+## Core languages 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-ffff00?style=for-the-badge&logo=python&logoColor=3776AB" />
