@@ -1,18 +1,4 @@
-# Hello World
-
-Software Engineer, passionate about inventions, innovative ideas, and building useful technology.
-
----
-
-## Core languages 
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-ffff00?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=blue" />
-</p>
-
----
+# I build what you click, tap and rely on
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=oveena-data&theme=radical&hide_border=true" alt="GitHub Streak" />
